@@ -16,3 +16,5 @@ closeIcon.addEventListener("click", ()=>{
     searchIcon.parentElement.classList.remove("change");
     searchInputWrapper.classList.remove("change");
 }) 
+// 
+// 
